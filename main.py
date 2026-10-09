@@ -263,8 +263,8 @@ def home() -> HTMLResponse:
 </head>
 <body>
   <main>
-    <h1>LOVE, IN EVERY LANGUAGE</h1>
-    <p class="subtitle">One heart. So many ways to say it.</p>
+    <h1>IN EVERY LANGUAGE, IT’S YOU 🫶</h1>
+    <p class="subtitle">No matter what the future holds, I want you in mine. ♾️❤️</p>
     {svg}
     <div class="controls"><button type="button" onclick="window.location.reload()">Replay animation ↻</button></div>
   </main>
